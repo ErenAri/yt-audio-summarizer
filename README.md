@@ -12,10 +12,4 @@ Bu proje, kullanıcıdan bir YouTube video linki alır, videonun sesini indirir,
 ## 🚀 Canlı Demo
 👉 [Buraya tıkla](https://yt-audio-summarizer.streamlit.app/)
 
-## 📦 Kurulum
 
-```bash
-git clone https://github.com/kullaniciadi/yt-audio-summarizer.git
-cd yt-audio-summarizer
-pip install -r requirements.txt
-streamlit run web_app.py
