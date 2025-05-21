@@ -1,6 +1,6 @@
 streamlit
 yt-dlp
 openai==0.28
-whisper
 torch
 ffmpeg-python
+git+https://github.com/openai/whisper.git
