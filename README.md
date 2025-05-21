@@ -10,7 +10,7 @@ Bu proje, kullanıcıdan bir YouTube video linki alır, videonun sesini indirir,
 - ✅ Gereksiz MP3 dosyalarını otomatik temizleme
 
 ## 🚀 Canlı Demo
-👉 [Buraya tıkla](https://username-yt-audio-summarizer.streamlit.app)
+👉 [Buraya tıkla](https://yt-audio-summarizer.streamlit.app/)
 
 ## 📦 Kurulum
 
