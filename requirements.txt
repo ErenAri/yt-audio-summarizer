@@ -1,4 +1,6 @@
-pytube
-openai-whisper
+streamlit
+yt-dlp
+openai==0.28
+whisper
 torch
 ffmpeg-python
